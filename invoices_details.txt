@@ -1,0 +1,2859 @@
+Invoice ID: 365371O
+Created On: 2019-05-27
+  Item ID: 142446
+  Item Name: ii_142446
+  Unit Price: 182
+  Type: 1
+  Quantity: 6
+  Item ID: 154019
+  Item Name: ii_154019
+  Unit Price: 176
+  Type: 1
+  Quantity: 1
+
+
+Invoice ID: 389528
+Created On: 2019-03-19
+  Item ID: 172535
+  Item Name: ii_172535
+  Unit Price: 105
+  Type: 0
+  Quantity: 4
+  Item ID: 175208
+  Item Name: ii_175208
+  Unit Price: 109
+  Type: 0
+  Quantity: 7
+  Item ID: 139970
+  Item Name: ii_139970
+  Unit Price: 193
+  Type: 2
+  Quantity: 4
+  Item ID: 156273
+  Item Name: ii_156273
+  Unit Price: 129
+  Type: 2
+  Quantity: 6
+  Item ID: 178512
+  Item Name: ii_178512
+  Unit Price: 108
+  Type: 1
+  Quantity: 7
+  Item ID: 191045
+  Item Name: ii_191045
+  Unit Price: 195
+  Type: 1
+  Quantity: 8
+  Item ID: 189841
+  Item Name: ii_189841
+  Unit Price: 171
+  Type: 1
+  Quantity: 4
+
+
+Invoice ID: 341762
+Created On: 2019-06-19
+  Item ID: 143176
+  Item Name: ii_143176
+  Unit Price: 175
+  Type: 2
+  Quantity: 2
+  Item ID: 161765
+  Item Name: ii_161765
+  Unit Price: 170
+  Type: 2
+  Quantity: 8
+  Item ID: 167763
+  Item Name: ii_167763
+  Unit Price: 150
+  Type: 3
+  Quantity: 5
+  Item ID: 195203
+  Item Name: ii_195203
+  Unit Price: 194
+  Type: 0
+  Quantity: 3
+  Item ID: 188321
+  Item Name: ii_188321
+  Unit Price: 101
+  Type: 3
+  Quantity: 1
+  Item ID: 114990
+  Item Name: ii_114990
+  Unit Price: 132
+  Type: 3
+  Quantity: 2
+  Item ID: 126940
+  Item Name: ii_126940
+  Unit Price: 166
+  Type: 0
+  Quantity: 3
+
+
+Invoice ID: 319405
+Created On: 2019-03-27
+  Item ID: 141009
+  Item Name: ii_141009
+  Unit Price: 161
+  Type: 0
+  Quantity: 1
+  Item ID: 195216
+  Item Name: ii_195216
+  Unit Price: 140
+  Type: 2
+  Quantity: 2
+  Item ID: 108059
+  Item Name: ii_108059
+  Unit Price: 118
+  Type: 2
+  Quantity: 6
+  Item ID: 171459
+  Item Name: ii_171459
+  Unit Price: 187
+  Type: 3
+  Quantity: 1
+
+
+Invoice ID: 343695
+Created On: 2019-04-10
+  Item ID: 144025
+  Item Name: ii_144025
+  Unit Price: 101
+  Type: 3
+  Quantity: ten
+  Item ID: 147038
+  Item Name: ii_147038
+  Unit Price: 177
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 358095
+Created On: 2019-03-19
+  Item ID: 147214
+  Item Name: ii_147214
+  Unit Price: 117
+  Type: 0
+  Quantity: 4
+  Item ID: 152191
+  Item Name: ii_152191
+  Unit Price: 135
+  Type: 1
+  Quantity: 6
+
+
+Invoice ID: 381281
+Created On: 2019-05-16
+  Item ID: 191864
+  Item Name: ii_191864
+  Unit Price: 176
+  Type: 2
+  Quantity: 2
+  Item ID: 110832
+  Item Name: ii_110832
+  Unit Price: 124
+  Type: 3
+  Quantity: 4
+
+
+Invoice ID: 352391
+Created On: 2019-01-18
+  Item ID: 178909
+  Item Name: ii_178909
+  Unit Price: 161
+  Type: 3
+  Quantity: 1
+  Item ID: 104981
+  Item Name: ii_104981
+  Unit Price: 141
+  Type: 3
+  Quantity: 1
+  Item ID: 167699
+  Item Name: ii_167699
+  Unit Price: 144
+  Type: 3
+  Quantity: 4
+  Item ID: 193687
+  Item Name: ii_193687
+  Unit Price: 166
+  Type: 0
+  Quantity: 6
+  Item ID: 138301
+  Item Name: ii_138301
+  Unit Price: 128
+  Type: 1
+  Quantity: 8
+  Item ID: 179050
+  Item Name: ii_179050
+  Unit Price: 162
+  Type: 3
+  Quantity: 4
+  Item ID: 198345
+  Item Name: ii_198345
+  Unit Price: 125
+  Type: 2
+  Quantity: 2
+
+
+Invoice ID: 374089O
+Created On: 2019-09-30
+  Item ID: 160942
+  Item Name: ii_160942
+  Unit Price: 162
+  Type: 2
+  Quantity: 4
+  Item ID: 156315
+  Item Name: ii_156315
+  Unit Price: 151
+  Type: 3
+  Quantity: 8
+  Item ID: 128859
+  Item Name: ii_128859
+  Unit Price: 117
+  Type: 1
+  Quantity: 1
+  Item ID: 152319
+  Item Name: ii_152319
+  Unit Price: 161
+  Type: 3
+  Quantity: 2
+
+
+Invoice ID: 331193
+Created On: 2019-04-12
+  Item ID: 195938
+  Item Name: ii_195938
+  Unit Price: 129
+  Type: O
+  Quantity: 2
+  Item ID: 160255
+  Item Name: ii_160255
+  Unit Price: 169
+  Type: 2
+  Quantity: 1
+  Item ID: 198688
+  Item Name: ii_198688
+  Unit Price: 102
+  Type: 2
+  Quantity: 6
+  Item ID: 101279
+  Item Name: ii_101279
+  Unit Price: 164
+  Type: 2
+  Quantity: 2
+  Item ID: 105136
+  Item Name: ii_105136
+  Unit Price: 193
+  Type: 1
+  Quantity: 3
+  Item ID: 167356
+  Item Name: ii_167356
+  Unit Price: 118
+  Type: 1
+  Quantity: 7
+  Item ID: 130940
+  Item Name: ii_130940
+  Unit Price: 145
+  Type: 2
+  Quantity: 2
+
+
+Invoice ID: 347510
+Created On: 2019-02-10
+  Item ID: 142237
+  Item Name: ii_142237
+  Unit Price: 167
+  Type: 1
+  Quantity: 8
+  Item ID: 106048
+  Item Name: ii_106048
+  Unit Price: 188
+  Type: 1
+  Quantity: 7
+  Item ID: 166330
+  Item Name: ii_166330
+  Unit Price: 116
+  Type: 2
+  Quantity: 4
+  Item ID: 197845
+  Item Name: ii_197845
+  Unit Price: 173
+  Type: 2
+  Quantity: 5
+  Item ID: 133899
+  Item Name: ii_133899
+  Unit Price: 144
+  Type: 3
+  Quantity: 7
+
+
+Invoice ID: 307175
+Created On: 2019-05-19
+  Item ID: 134663
+  Item Name: ii_134663
+  Unit Price: 175
+  Type: 0
+  Quantity: 8
+  Item ID: 136924
+  Item Name: ii_136924
+  Unit Price: 183
+  Type: 0
+  Quantity: 8
+  Item ID: 122138
+  Item Name: ii_122138
+  Unit Price: 195
+  Type: 0
+  Quantity: 8
+  Item ID: 133742
+  Item Name: ii_133742
+  Unit Price: 115
+  Type: 1
+  Quantity: 3
+  Item ID: 185633
+  Item Name: ii_185633
+  Unit Price: 119
+  Type: 0
+  Quantity: 2
+
+
+Invoice ID: 369378
+Created On: 2019-07-15
+  Item ID: 137032
+  Item Name: ii_137032
+  Unit Price: 116
+  Type: O
+  Quantity: 5
+  Item ID: 126483
+  Item Name: ii_126483
+  Unit Price: 165
+  Type: 1
+  Quantity: 7
+  Item ID: 108758
+  Item Name: ii_108758
+  Unit Price: 177
+  Type: 2
+  Quantity: 4
+  Item ID: 183393
+  Item Name: ii_183393
+  Unit Price: 194
+  Type: 1
+  Quantity: 5
+  Item ID: 190308
+  Item Name: ii_190308
+  Unit Price: 124
+  Type: 3
+  Quantity: 2
+  Item ID: 177376
+  Item Name: ii_177376
+  Unit Price: 127
+  Type: 3
+  Quantity: 7
+
+
+Invoice ID: 377307
+Created On: 2019-04-12
+  Item ID: 174987
+  Item Name: ii_174987
+  Unit Price: 127
+  Type: 1
+  Quantity: 4
+  Item ID: 151916
+  Item Name: ii_151916
+  Unit Price: 117
+  Type: 0
+  Quantity: 7
+  Item ID: 194584
+  Item Name: ii_194584
+  Unit Price: 146
+  Type: 0
+  Quantity: 4
+  Item ID: 190386
+  Item Name: ii_190386
+  Unit Price: 156
+  Type: 2
+  Quantity: 8
+  Item ID: 151535
+  Item Name: ii_151535
+  Unit Price: 139
+  Type: 1
+  Quantity: 4
+
+
+Invoice ID: 367288
+Created On: 2019-06-29
+  Item ID: 117929
+  Item Name: ii_117929
+  Unit Price: 155
+  Type: 3
+  Quantity: 4
+  Item ID: 182802
+  Item Name: ii_182802
+  Unit Price: 155
+  Type: 3
+  Quantity: 3
+  Item ID: 104800
+  Item Name: ii_104800
+  Unit Price: 103
+  Type: 2
+  Quantity: 8
+  Item ID: 146906
+  Item Name: ii_146906
+  Unit Price: 132
+  Type: 2
+  Quantity: 5
+  Item ID: 178253
+  Item Name: ii_178253
+  Unit Price: 104
+  Type: 1
+  Quantity: 2
+
+
+Invoice ID: 337140
+Created On: 2019-06-23
+  Item ID: 131446
+  Item Name: ii_131446
+  Unit Price: 196
+  Type: 2
+  Quantity: 1
+  Item ID: 168508
+  Item Name: ii_168508
+  Unit Price: 109
+  Type: 0
+  Quantity: 4
+  Item ID: 171389
+  Item Name: ii_171389
+  Unit Price: 183
+  Type: 0
+  Quantity: 1
+  Item ID: 117794
+  Item Name: ii_117794
+  Unit Price: 155
+  Type: 3
+  Quantity: 6
+  Item ID: 184268
+  Item Name: ii_184268
+  Unit Price: 147
+  Type: 3
+  Quantity: 1
+
+
+Invoice ID: 315960
+Created On: 2019-09-27
+  Item ID: 117240
+  Item Name: ii_117240
+  Unit Price: 139
+  Type: 3
+  Quantity: 3
+  Item ID: 104513
+  Item Name: ii_104513
+  Unit Price: 165
+  Type: 1
+  Quantity: 8
+  Item ID: 172757
+  Item Name: ii_172757
+  Unit Price: 155
+  Type: 2
+  Quantity: 2
+  Item ID: 103202
+  Item Name: ii_103202
+  Unit Price: 113
+  Type: 1
+  Quantity: 6
+  Item ID: 100883
+  Item Name: ii_100883
+  Unit Price: 187
+  Type: 2
+  Quantity: 6
+  Item ID: 194744
+  Item Name: ii_194744
+  Unit Price: 131
+  Type: 0
+  Quantity: 7
+  Item ID: 128573
+  Item Name: ii_128573
+  Unit Price: 119
+  Type: 1
+  Quantity: 4
+
+
+Invoice ID: 340601
+Created On: 2019-08-16
+  Item ID: 144257
+  Item Name: ii_144257
+  Unit Price: 148
+  Type: 0
+  Quantity: 7
+  Item ID: 116446
+  Item Name: ii_116446
+  Unit Price: 129
+  Type: 2
+  Quantity: 7
+  Item ID: 126267
+  Item Name: ii_126267
+  Unit Price: 171
+  Type: 2
+  Quantity: 2
+  Item ID: 145047
+  Item Name: ii_145047
+  Unit Price: 163
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 397723O
+Created On: 2019-05-11
+  Item ID: 181613
+  Item Name: ii_181613
+  Unit Price: 161
+  Type: 0
+  Quantity: 3
+  Item ID: 117999
+  Item Name: ii_117999
+  Unit Price: 196
+  Type: 1
+  Quantity: 2
+  Item ID: 198198
+  Item Name: ii_198198
+  Unit Price: 122
+  Type: 0
+  Quantity: 3
+  Item ID: 121772
+  Item Name: ii_121772
+  Unit Price: 120
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 379687
+Created On: 2019-05-24
+  Item ID: 139615
+  Item Name: ii_139615
+  Unit Price: 194
+  Type: 0
+  Quantity: 3
+  Item ID: 155726
+  Item Name: ii_155726
+  Unit Price: 149
+  Type: 1
+  Quantity: 7
+  Item ID: 188916
+  Item Name: ii_188916
+  Unit Price: 165
+  Type: 2
+  Quantity: 3
+  Item ID: 164157
+  Item Name: ii_164157
+  Unit Price: 195
+  Type: 2
+  Quantity: 1
+  Item ID: 135770
+  Item Name: ii_135770
+  Unit Price: 174
+  Type: 3
+  Quantity: 3
+  Item ID: 107730
+  Item Name: ii_107730
+  Unit Price: 177
+  Type: 1
+  Quantity: 8
+  Item ID: 139278
+  Item Name: ii_139278
+  Unit Price: 120
+  Type: 0
+  Quantity: 7
+
+
+Invoice ID: 309022
+Created On: 2019-04-18
+  Item ID: 161511
+  Item Name: ii_161511
+  Unit Price: 102
+  Type: 1
+  Quantity: 2
+  Item ID: 197972
+  Item Name: ii_197972
+  Unit Price: 145
+  Type: 3
+  Quantity: 3
+  Item ID: 123298
+  Item Name: ii_123298
+  Unit Price: 189
+  Type: 2
+  Quantity: 4
+  Item ID: 105792
+  Item Name: ii_105792
+  Unit Price: 106
+  Type: 3
+  Quantity: 7
+  Item ID: 109859
+  Item Name: ii_109859
+  Unit Price: 117
+  Type: 2
+  Quantity: 8
+  Item ID: 171220
+  Item Name: ii_171220
+  Unit Price: 136
+  Type: 3
+  Quantity: 6
+  Item ID: 131338
+  Item Name: ii_131338
+  Unit Price: 197
+  Type: 1
+  Quantity: 1
+
+
+Invoice ID: 325156O
+Created On: 2019-06-25
+  Item ID: 169797
+  Item Name: ii_169797
+  Unit Price: 116
+  Type: 3
+  Quantity: 7
+  Item ID: 132735
+  Item Name: ii_132735
+  Unit Price: 181
+  Type: 1
+  Quantity: 7
+  Item ID: 109190
+  Item Name: ii_109190
+  Unit Price: 189
+  Type: 2
+  Quantity: 6
+  Item ID: 150736
+  Item Name: ii_150736
+  Unit Price: 138
+  Type: 1
+  Quantity: 5
+  Item ID: 142199
+  Item Name: ii_142199
+  Unit Price: 130
+  Type: 2
+  Quantity: 4
+  Item ID: 197255
+  Item Name: ii_197255
+  Unit Price: 142
+  Type: 2
+  Quantity: 5
+  Item ID: 119673
+  Item Name: ii_119673
+  Unit Price: 130
+  Type: 0
+  Quantity: 2
+
+
+Invoice ID: 316710
+Created On: 2019-05-25
+  Item ID: 182123
+  Item Name: ii_182123
+  Unit Price: 137
+  Type: 1
+  Quantity: 4
+  Item ID: 135307
+  Item Name: ii_135307
+  Unit Price: 149
+  Type: 3
+  Quantity: 8
+
+
+Invoice ID: 370388
+Created On: 2019-09-12
+  Item ID: 183848
+  Item Name: ii_183848
+  Unit Price: 112
+  Type: 3
+  Quantity: 7
+  Item ID: 165619
+  Item Name: ii_165619
+  Unit Price: 142
+  Type: 0
+  Quantity: 7
+  Item ID: 181685
+  Item Name: ii_181685
+  Unit Price: 200
+  Type: 3
+  Quantity: 4
+  Item ID: 124709
+  Item Name: ii_124709
+  Unit Price: 115
+  Type: 2
+  Quantity: 4
+  Item ID: 129808
+  Item Name: ii_129808
+  Unit Price: 185
+  Type: 1
+  Quantity: 5
+  Item ID: 112870
+  Item Name: ii_112870
+  Unit Price: 102
+  Type: 1
+  Quantity: 2
+  Item ID: 102035
+  Item Name: ii_102035
+  Unit Price: 173
+  Type: 2
+  Quantity: 8
+
+
+Invoice ID: 307923
+Created On: 2019-04-20
+  Item ID: 118576
+  Item Name: ii_118576
+  Unit Price: 183
+  Type: 3
+  Quantity: 4
+  Item ID: 103717
+  Item Name: ii_103717
+  Unit Price: 100
+  Type: 3
+  Quantity: 2
+  Item ID: 127738
+  Item Name: ii_127738
+  Unit Price: 106
+  Type: 0
+  Quantity: 4
+
+
+Invoice ID: 326649O
+Created On: 2019-02-27
+  Item ID: 170022
+  Item Name: ii_170022
+  Unit Price: 190
+  Type: 1
+  Quantity: 7
+  Item ID: 177477
+  Item Name: ii_177477
+  Unit Price: 116
+  Type: 3
+  Quantity: 5
+  Item ID: 170207
+  Item Name: ii_170207
+  Unit Price: 191
+  Type: 1
+  Quantity: 8
+
+
+Invoice ID: 369292
+Created On: 2019-09-13
+  Item ID: 125771
+  Item Name: ii_125771
+  Unit Price: 194
+  Type: 1
+  Quantity: 7
+  Item ID: 107345
+  Item Name: ii_107345
+  Unit Price: 120
+  Type: 2
+  Quantity: 3
+  Item ID: 106241
+  Item Name: ii_106241
+  Unit Price: 183
+  Type: 0
+  Quantity: 7
+  Item ID: 191895
+  Item Name: ii_191895
+  Unit Price: 114
+  Type: 0
+  Quantity: 4
+
+
+Invoice ID: 304245
+Created On: 2019-03-17
+  Item ID: 121446
+  Item Name: ii_121446
+  Unit Price: 158
+  Type: 2
+  Quantity: 4
+  Item ID: 155308
+  Item Name: ii_155308
+  Unit Price: 161
+  Type: 1
+  Quantity: 7
+  Item ID: 143674
+  Item Name: ii_143674
+  Unit Price: 176
+  Type: 2
+  Quantity: 3
+  Item ID: 161145
+  Item Name: ii_161145
+  Unit Price: 191
+  Type: 2
+  Quantity: 6
+  Item ID: 155679
+  Item Name: ii_155679
+  Unit Price: 194
+  Type: 2
+  Quantity: 3
+  Item ID: 135235
+  Item Name: ii_135235
+  Unit Price: 151
+  Type: 2
+  Quantity: 6
+
+
+Invoice ID: 392733
+Created On: 2019-07-12
+  Item ID: 149945
+  Item Name: ii_149945
+  Unit Price: 116
+  Type: 3
+  Quantity: 7
+  Item ID: 122938
+  Item Name: ii_122938
+  Unit Price: 120
+  Type: 3
+  Quantity: 1
+  Item ID: 196413
+  Item Name: ii_196413
+  Unit Price: 125
+  Type: 0
+  Quantity: 8
+  Item ID: 142303
+  Item Name: ii_142303
+  Unit Price: 126
+  Type: 3
+  Quantity: 3
+
+
+Invoice ID: 335732
+Created On: 2019-08-10
+  Item ID: 178111
+  Item Name: ii_178111
+  Unit Price: 187
+  Type: 3
+  Quantity: 6
+  Item ID: 134919
+  Item Name: ii_134919
+  Unit Price: 158
+  Type: 3
+  Quantity: 3
+  Item ID: 198017
+  Item Name: ii_198017
+  Unit Price: 152
+  Type: 2
+  Quantity: 2
+  Item ID: 189409
+  Item Name: ii_189409
+  Unit Price: 194
+  Type: 2
+  Quantity: 6
+  Item ID: 159222
+  Item Name: ii_159222
+  Unit Price: 171
+  Type: 2
+  Quantity: 1
+
+
+Invoice ID: 363284
+Created On: 2019-09-21
+  Item ID: 107763
+  Item Name: ii_107763
+  Unit Price: 110
+  Type: 3
+  Quantity: 6
+  Item ID: 180493
+  Item Name: ii_180493
+  Unit Price: 144
+  Type: 1
+  Quantity: 5
+  Item ID: 154557
+  Item Name: ii_154557
+  Unit Price: 131
+  Type: 0
+  Quantity: 3
+  Item ID: 147178
+  Item Name: ii_147178
+  Unit Price: 165
+  Type: 0
+  Quantity: 5
+  Item ID: 171334
+  Item Name: ii_171334
+  Unit Price: 172
+  Type: 0
+  Quantity: 6
+  Item ID: 128292
+  Item Name: ii_128292
+  Unit Price: 134
+  Type: 2
+  Quantity: 6
+  Item ID: 170804
+  Item Name: ii_170804
+  Unit Price: 195
+  Type: 0
+  Quantity: 8
+  Item ID: 144611
+  Item Name: ii_144611
+  Unit Price: 172
+  Type: 1
+  Quantity: 5
+
+
+Invoice ID: 373241
+Created On: 2019-02-19
+  Item ID: 196536
+  Item Name: ii_196536
+  Unit Price: 196
+  Type: 3
+  Quantity: 7
+  Item ID: 161678
+  Item Name: ii_161678
+  Unit Price: 140
+  Type: 2
+  Quantity: 6
+  Item ID: 116519
+  Item Name: ii_116519
+  Unit Price: 161
+  Type: 1
+  Quantity: 1
+  Item ID: 118309
+  Item Name: ii_118309
+  Unit Price: 126
+  Type: 0
+  Quantity: 8
+
+
+Invoice ID: 379961
+Created On: 2019-05-12
+
+
+Invoice ID: 385290O
+Created On: 2019-06-29
+  Item ID: 150069
+  Item Name: ii_150069
+  Unit Price: 114
+  Type: 3
+  Quantity: 7
+  Item ID: 168488
+  Item Name: ii_168488
+  Unit Price: 116
+  Type: 1
+  Quantity: 2
+
+
+Invoice ID: 394428
+Created On: 2019-09-26
+  Item ID: 141154
+  Item Name: ii_141154
+  Unit Price: 129
+  Type: 1
+  Quantity: 5
+  Item ID: 120256
+  Item Name: ii_120256
+  Unit Price: 100
+  Type: 3
+  Quantity: 5
+  Item ID: 192645
+  Item Name: ii_192645
+  Unit Price: 102
+  Type: 1
+  Quantity: 8
+  Item ID: 194735
+  Item Name: ii_194735
+  Unit Price: 100
+  Type: 0
+  Quantity: 3
+  Item ID: 141457
+  Item Name: ii_141457
+  Unit Price: 181
+  Type: 1
+  Quantity: 7
+  Item ID: 160040
+  Item Name: ii_160040
+  Unit Price: 137
+  Type: 0
+  Quantity: 7
+
+
+Invoice ID: 326452
+Created On: 2019-08-21
+  Item ID: 155752
+  Item Name: ii_155752
+  Unit Price: 102
+  Type: 1
+  Quantity: 4
+  Item ID: 157444
+  Item Name: ii_157444
+  Unit Price: 154
+  Type: 2
+  Quantity: 1
+  Item ID: 124339
+  Item Name: ii_124339
+  Unit Price: 200
+  Type: 1
+  Quantity: 4
+  Item ID: 154969
+  Item Name: ii_154969
+  Unit Price: 151
+  Type: 3
+  Quantity: 2
+  Item ID: 168281
+  Item Name: ii_168281
+  Unit Price: 144
+  Type: 3
+  Quantity: 6
+
+
+Invoice ID: 342057
+Created On: 2019-07-14
+  Item ID: 143077
+  Item Name: ii_143077
+  Unit Price: 103
+  Type: 0
+  Quantity: 4
+  Item ID: 119152
+  Item Name: ii_119152
+  Unit Price: 155
+  Type: 2
+  Quantity: 8
+
+
+Invoice ID: 356817
+Created On: 2019-05-14
+  Item ID: 182969
+  Item Name: ii_182969
+  Unit Price: 107
+  Type: 3
+  Quantity: 7
+  Item ID: 126581
+  Item Name: ii_126581
+  Unit Price: 115
+  Type: 1
+  Quantity: 3
+  Item ID: 156873
+  Item Name: ii_156873
+  Unit Price: 166
+  Type: 1
+  Quantity: 2
+  Item ID: 129822
+  Item Name: ii_129822
+  Unit Price: 117
+  Type: 2
+  Quantity: 4
+  Item ID: 192836
+  Item Name: ii_192836
+  Unit Price: 171
+  Type: 3
+  Quantity: 4
+  Item ID: 190522
+  Item Name: ii_190522
+  Unit Price: 156
+  Type: 3
+  Quantity: 4
+  Item ID: 189295
+  Item Name: ii_189295
+  Unit Price: 178
+  Type: 2
+  Quantity: 5
+
+
+Invoice ID: 381476O
+Created On: 2019-07-12
+  Item ID: 195222
+  Item Name: ii_195222
+  Unit Price: 186
+  Type: 3
+  Quantity: 8
+  Item ID: 121779
+  Item Name: ii_121779
+  Unit Price: 195
+  Type: 2
+  Quantity: 5
+
+
+Invoice ID: 322229
+Created On: 2019-07-27
+  Item ID: 113336
+  Item Name: ii_113336
+  Unit Price: 121
+  Type: 0
+  Quantity: 3
+  Item ID: 153568
+  Item Name: ii_153568
+  Unit Price: 127
+  Type: 1
+  Quantity: 8
+  Item ID: 101063
+  Item Name: ii_101063
+  Unit Price: 149
+  Type: 3
+  Quantity: 2
+  Item ID: 155936
+  Item Name: ii_155936
+  Unit Price: 171
+  Type: 1
+  Quantity: 5
+  Item ID: 178996
+  Item Name: ii_178996
+  Unit Price: 194
+  Type: 2
+  Quantity: 2
+  Item ID: 145514
+  Item Name: ii_145514
+  Unit Price: 191
+  Type: 0
+  Quantity: 1
+  Item ID: 130624
+  Item Name: ii_130624
+  Unit Price: 167
+  Type: 0
+  Quantity: 1
+  Item ID: 178642
+  Item Name: ii_178642
+  Unit Price: 126
+  Type: 2
+  Quantity: 8
+
+
+Invoice ID: 377719
+Created On: 2019-01-25
+  Item ID: 157233
+  Item Name: ii_157233
+  Unit Price: 150
+  Type: 1
+  Quantity: 1
+  Item ID: 172149
+  Item Name: ii_172149
+  Unit Price: 192
+  Type: 0
+  Quantity: 7
+  Item ID: 178297
+  Item Name: ii_178297
+  Unit Price: 124
+  Type: 3
+  Quantity: 8
+  Item ID: 129849
+  Item Name: ii_129849
+  Unit Price: 159
+  Type: 1
+  Quantity: 1
+
+
+Invoice ID: 389694
+Created On: 2019-04-15
+  Item ID: 124910
+  Item Name: ii_124910
+  Unit Price: 152
+  Type: 3
+  Quantity: 7
+  Item ID: 124712
+  Item Name: ii_124712
+  Unit Price: 113
+  Type: 2
+  Quantity: 1
+  Item ID: 141350
+  Item Name: ii_141350
+  Unit Price: 172
+  Type: 1
+  Quantity: 5
+  Item ID: 145685
+  Item Name: ii_145685
+  Unit Price: 173
+  Type: 3
+  Quantity: 2
+  Item ID: 156848
+  Item Name: ii_156848
+  Unit Price: 198
+  Type: 3
+  Quantity: 5
+  Item ID: 132887
+  Item Name: ii_132887
+  Unit Price: 157
+  Type: 3
+  Quantity: 5
+  Item ID: 175476
+  Item Name: ii_175476
+  Unit Price: 145
+  Type: 1
+  Quantity: 3
+
+
+Invoice ID: 371205
+Created On: 2019-09-16
+  Item ID: 134708
+  Item Name: ii_134708
+  Unit Price: 161
+  Type: 0
+  Quantity: 2
+  Item ID: 168830
+  Item Name: ii_168830
+  Unit Price: 133
+  Type: 3
+  Quantity: 4
+  Item ID: 191084
+  Item Name: ii_191084
+  Unit Price: 153
+  Type: 0
+  Quantity: 8
+  Item ID: 136658
+  Item Name: ii_136658
+  Unit Price: 166
+  Type: 3
+  Quantity: 7
+  Item ID: 140599
+  Item Name: ii_140599
+  Unit Price: 168
+  Type: 0
+  Quantity: 7
+  Item ID: 128266
+  Item Name: ii_128266
+  Unit Price: 125
+  Type: 2
+  Quantity: 5
+
+
+Invoice ID: 373470
+Created On: 2019-09-22
+  Item ID: 111542
+  Item Name: ii_111542
+  Unit Price: 131
+  Type: 3
+  Quantity: 1
+  Item ID: 132455
+  Item Name: ii_132455
+  Unit Price: 172
+  Type: 2
+  Quantity: 3
+  Item ID: 132910
+  Item Name: ii_132910
+  Unit Price: 169
+  Type: 3
+  Quantity: 1
+  Item ID: 116917
+  Item Name: ii_116917
+  Unit Price: 166
+  Type: 2
+  Quantity: 2
+  Item ID: 193726
+  Item Name: ii_193726
+  Unit Price: 180
+  Type: 1
+  Quantity: 5
+  Item ID: 193693
+  Item Name: ii_193693
+  Unit Price: 144
+  Type: 0
+  Quantity: 3
+
+
+Invoice ID: 352442
+Created On: 2019-02-25
+  Item ID: 146726
+  Item Name: ii_146726
+  Unit Price: 148
+  Type: 3
+  Quantity: 7
+  Item ID: 126440
+  Item Name: ii_126440
+  Unit Price: 166
+  Type: 2
+  Quantity: 6
+  Item ID: 107250
+  Item Name: ii_107250
+  Unit Price: 116
+  Type: 1
+  Quantity: 8
+  Item ID: 108496
+  Item Name: ii_108496
+  Unit Price: 128
+  Type: 0
+  Quantity: 3
+  Item ID: 195973
+  Item Name: ii_195973
+  Unit Price: 181
+  Type: 0
+  Quantity: 6
+  Item ID: 179715
+  Item Name: ii_179715
+  Unit Price: 136
+  Type: 1
+  Quantity: 2
+
+
+Invoice ID: 331601
+Created On: 2019-03-26
+  Item ID: 114112
+  Item Name: ii_114112
+  Unit Price: 189
+  Type: 0
+  Quantity: 7
+  Item ID: 139457
+  Item Name: ii_139457
+  Unit Price: 190
+  Type: 0
+  Quantity: 2
+
+
+Invoice ID: 338547
+Created On: 2019-03-13
+  Item ID: 138537
+  Item Name: ii_138537
+  Unit Price: 134
+  Type: 1
+  Quantity: 6
+  Item ID: 174862
+  Item Name: ii_174862
+  Unit Price: 171
+  Type: 1
+  Quantity: 2
+  Item ID: 117018
+  Item Name: ii_117018
+  Unit Price: 124
+  Type: 2
+  Quantity: 5
+
+
+Invoice ID: 350506
+Created On: 2019-01-24
+
+
+Invoice ID: 392657
+Created On: 2019-04-25
+  Item ID: 121582
+  Item Name: ii_121582
+  Unit Price: 181
+  Type: O
+  Quantity: 6
+  Item ID: 168169
+  Item Name: ii_168169
+  Unit Price: 180
+  Type: 3
+  Quantity: 7
+  Item ID: 168613
+  Item Name: ii_168613
+  Unit Price: 182
+  Type: 3
+  Quantity: 5
+  Item ID: 109352
+  Item Name: ii_109352
+  Unit Price: 197
+  Type: 1
+  Quantity: 7
+  Item ID: 180133
+  Item Name: ii_180133
+  Unit Price: 181
+  Type: 3
+  Quantity: 7
+  Item ID: 130960
+  Item Name: ii_130960
+  Unit Price: 195
+  Type: 2
+  Quantity: 6
+  Item ID: 189971
+  Item Name: ii_189971
+  Unit Price: 199
+  Type: 1
+  Quantity: 3
+  Item ID: 109781
+  Item Name: ii_109781
+  Unit Price: 177
+  Type: 2
+  Quantity: 2
+
+
+Invoice ID: 377572
+Created On: 2019-06-24
+  Item ID: 146917
+  Item Name: ii_146917
+  Unit Price: 146
+  Type: 3
+  Quantity: 5
+  Item ID: 164691
+  Item Name: ii_164691
+  Unit Price: 135
+  Type: 3
+  Quantity: 1
+  Item ID: 136284
+  Item Name: ii_136284
+  Unit Price: 109
+  Type: 3
+  Quantity: 6
+  Item ID: 139346
+  Item Name: ii_139346
+  Unit Price: 154
+  Type: 3
+  Quantity: 5
+  Item ID: 107683
+  Item Name: ii_107683
+  Unit Price: 195
+  Type: 2
+  Quantity: 4
+  Item ID: 171957
+  Item Name: ii_171957
+  Unit Price: 121
+  Type: 1
+  Quantity: 8
+
+
+Invoice ID: 324751
+Created On: 2019-02-27
+  Item ID: 165882
+  Item Name: ii_165882
+  Unit Price: 147
+  Type: 0
+  Quantity: 1
+  Item ID: 129989
+  Item Name: ii_129989
+  Unit Price: 117
+  Type: 2
+  Quantity: 6
+  Item ID: 157890
+  Item Name: ii_157890
+  Unit Price: 160
+  Type: 0
+  Quantity: 3
+
+
+Invoice ID: 347243
+Created On: 2019-05-16
+  Item ID: 199938
+  Item Name: ii_199938
+  Unit Price: 160
+  Type: 3
+  Quantity: 5
+  Item ID: 187864
+  Item Name: ii_187864
+  Unit Price: 195
+  Type: 1
+  Quantity: 7
+  Item ID: 180620
+  Item Name: ii_180620
+  Unit Price: 121
+  Type: 1
+  Quantity: 1
+  Item ID: 128879
+  Item Name: ii_128879
+  Unit Price: 196
+  Type: 3
+  Quantity: 4
+  Item ID: 115441
+  Item Name: ii_115441
+  Unit Price: 122
+  Type: 2
+  Quantity: 2
+  Item ID: 176261
+  Item Name: ii_176261
+  Unit Price: 196
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 344265
+Created On: 2019-09-28
+  Item ID: 155135
+  Item Name: ii_155135
+  Unit Price: 109
+  Type: 3
+  Quantity: 4
+  Item ID: 114882
+  Item Name: ii_114882
+  Unit Price: 180
+  Type: 0
+  Quantity: 1
+  Item ID: 146936
+  Item Name: ii_146936
+  Unit Price: 128
+  Type: 0
+  Quantity: 6
+  Item ID: 110235
+  Item Name: ii_110235
+  Unit Price: 120
+  Type: 0
+  Quantity: 6
+  Item ID: 127274
+  Item Name: ii_127274
+  Unit Price: 107
+  Type: 1
+  Quantity: 6
+  Item ID: 110104
+  Item Name: ii_110104
+  Unit Price: 194
+  Type: 3
+  Quantity: 8
+  Item ID: 196026
+  Item Name: ii_196026
+  Unit Price: 187
+  Type: 0
+  Quantity: 3
+  Item ID: 131891
+  Item Name: ii_131891
+  Unit Price: 112
+  Type: 3
+  Quantity: 3
+
+
+Invoice ID: 349879
+Created On: 2019-01-11
+  Item ID: 170792
+  Item Name: ii_170792
+  Unit Price: 180
+  Type: 1
+  Quantity: 3
+  Item ID: 161820
+  Item Name: ii_161820
+  Unit Price: 186
+  Type: 3
+  Quantity: 3
+
+
+Invoice ID: 335226O
+Created On: 2019-05-24
+  Item ID: 100942
+  Item Name: ii_100942
+  Unit Price: 117
+  Type: 0
+  Quantity: 4
+  Item ID: 142902
+  Item Name: ii_142902
+  Unit Price: 194
+  Type: 3
+  Quantity: 6
+  Item ID: 165153
+  Item Name: ii_165153
+  Unit Price: 193
+  Type: 1
+  Quantity: 8
+
+
+Invoice ID: 383681
+Created On: 2019-07-21
+  Item ID: 178938
+  Item Name: ii_178938
+  Unit Price: 197
+  Type: 3
+  Quantity: 8
+  Item ID: 105522
+  Item Name: ii_105522
+  Unit Price: 112
+  Type: 3
+  Quantity: 6
+  Item ID: 141843
+  Item Name: ii_141843
+  Unit Price: 157
+  Type: 0
+  Quantity: 7
+  Item ID: 116083
+  Item Name: ii_116083
+  Unit Price: 162
+  Type: 1
+  Quantity: 5
+  Item ID: 102735
+  Item Name: ii_102735
+  Unit Price: 122
+  Type: 2
+  Quantity: 8
+  Item ID: 121777
+  Item Name: ii_121777
+  Unit Price: 125
+  Type: 2
+  Quantity: 8
+  Item ID: 107558
+  Item Name: ii_107558
+  Unit Price: 143
+  Type: 2
+  Quantity: 8
+  Item ID: 140426
+  Item Name: ii_140426
+  Unit Price: 109
+  Type: 2
+  Quantity: 2
+
+
+Invoice ID: 385661
+Created On: 2019-02-14
+  Item ID: 150660
+  Item Name: ii_150660
+  Unit Price: 107
+  Type: 0
+  Quantity: 5
+  Item ID: 197614
+  Item Name: ii_197614
+  Unit Price: 128
+  Type: 0
+  Quantity: 3
+  Item ID: 138654
+  Item Name: ii_138654
+  Unit Price: 147
+  Type: 1
+  Quantity: 3
+  Item ID: 192347
+  Item Name: ii_192347
+  Unit Price: 102
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 348894
+Created On: 2019-07-14
+  Item ID: 159283
+  Item Name: ii_159283
+  Unit Price: 176
+  Type: 3
+  Quantity: -3
+  Item ID: 148220
+  Item Name: ii_148220
+  Unit Price: 149
+  Type: 2
+  Quantity: 8
+  Item ID: 109358
+  Item Name: ii_109358
+  Unit Price: 173
+  Type: 1
+  Quantity: 7
+  Item ID: 106227
+  Item Name: ii_106227
+  Unit Price: 197
+  Type: 0
+  Quantity: 3
+  Item ID: 135114
+  Item Name: ii_135114
+  Unit Price: 175
+  Type: 3
+  Quantity: 5
+  Item ID: 188146
+  Item Name: ii_188146
+  Unit Price: 184
+  Type: 1
+  Quantity: 1
+  Item ID: 149349
+  Item Name: ii_149349
+  Unit Price: 106
+  Type: 2
+  Quantity: 8
+  Item ID: 143455
+  Item Name: ii_143455
+  Unit Price: 131
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 378746
+Created On: 2019-01-19
+  Item ID: 124023
+  Item Name: ii_124023
+  Unit Price: 161
+  Type: 3
+  Quantity: 4
+  Item ID: 153160
+  Item Name: ii_153160
+  Unit Price: 148
+  Type: 0
+  Quantity: 1
+  Item ID: 127600
+  Item Name: ii_127600
+  Unit Price: 114
+  Type: 0
+  Quantity: 5
+  Item ID: 166823
+  Item Name: ii_166823
+  Unit Price: 171
+  Type: 0
+  Quantity: 5
+  Item ID: 161026
+  Item Name: ii_161026
+  Unit Price: 197
+  Type: 0
+  Quantity: 8
+
+
+Invoice ID: 374733
+Created On: 2019-07-10
+  Item ID: 189737
+  Item Name: ii_189737
+  Unit Price: 158
+  Type: 0
+  Quantity: 1
+  Item ID: 136516
+  Item Name: ii_136516
+  Unit Price: 113
+  Type: 0
+  Quantity: 7
+  Item ID: 150673
+  Item Name: ii_150673
+  Unit Price: 114
+  Type: 2
+  Quantity: 6
+  Item ID: 163186
+  Item Name: ii_163186
+  Unit Price: 149
+  Type: 1
+  Quantity: 5
+  Item ID: 121879
+  Item Name: ii_121879
+  Unit Price: 153
+  Type: 0
+  Quantity: 1
+  Item ID: 101649
+  Item Name: ii_101649
+  Unit Price: 126
+  Type: 3
+  Quantity: 6
+
+
+Invoice ID: 301695
+Created On: 2019-04-26
+  Item ID: 166227
+  Item Name: ii_166227
+  Unit Price: 118
+  Type: 1
+  Quantity: 6
+  Item ID: 195625
+  Item Name: ii_195625
+  Unit Price: 148
+  Type: 3
+  Quantity: 5
+  Item ID: 103215
+  Item Name: ii_103215
+  Unit Price: 135
+  Type: 3
+  Quantity: 7
+  Item ID: 171394
+  Item Name: ii_171394
+  Unit Price: 128
+  Type: 3
+  Quantity: 1
+
+
+Invoice ID: 351096
+Created On: 2019-03-13
+  Item ID: 180576
+  Item Name: ii_180576
+  Unit Price: 144
+  Type: 2
+  Quantity: 3
+  Item ID: 191572
+  Item Name: ii_191572
+  Unit Price: 151
+  Type: 3
+  Quantity: 7
+  Item ID: 163806
+  Item Name: ii_163806
+  Unit Price: 172
+  Type: 1
+  Quantity: 8
+  Item ID: 121485
+  Item Name: ii_121485
+  Unit Price: 158
+  Type: 2
+  Quantity: 5
+  Item ID: 108171
+  Item Name: ii_108171
+  Unit Price: 148
+  Type: 0
+  Quantity: 5
+  Item ID: 157907
+  Item Name: ii_157907
+  Unit Price: 132
+  Type: 3
+  Quantity: 6
+
+
+Invoice ID: 308939
+Created On: 2019-05-18
+  Item ID: 138755
+  Item Name: ii_138755
+  Unit Price: 142
+  Type: 0
+  Quantity: 6
+  Item ID: 118810
+  Item Name: ii_118810
+  Unit Price: 178
+  Type: 2
+  Quantity: 8
+  Item ID: 147011
+  Item Name: ii_147011
+  Unit Price: 196
+  Type: 3
+  Quantity: 5
+
+
+Invoice ID: 379387
+Created On: 2019-06-22
+  Item ID: 198340
+  Item Name: ii_198340
+  Unit Price: 177
+  Type: 3
+  Quantity: 2
+  Item ID: 190876
+  Item Name: ii_190876
+  Unit Price: 104
+  Type: 0
+  Quantity: 2
+  Item ID: 175510
+  Item Name: ii_175510
+  Unit Price: 132
+  Type: 0
+  Quantity: 7
+
+
+Invoice ID: 371786O
+Created On: 2019-02-10
+  Item ID: 151075
+  Item Name: ii_151075
+  Unit Price: 134
+  Type: 2
+  Quantity: 5
+  Item ID: 132552
+  Item Name: ii_132552
+  Unit Price: 164
+  Type: 1
+  Quantity: 1
+
+
+Invoice ID: 356532
+Created On: 2019-01-14
+  Item ID: 157298
+  Item Name: ii_157298
+  Unit Price: 196
+  Type: 1
+  Quantity: 4
+  Item ID: 166980
+  Item Name: ii_166980
+  Unit Price: 172
+  Type: 2
+  Quantity: 7
+  Item ID: 123170
+  Item Name: ii_123170
+  Unit Price: 121
+  Type: 3
+  Quantity: 1
+  Item ID: 172501
+  Item Name: ii_172501
+  Unit Price: 161
+  Type: 3
+  Quantity: 5
+  Item ID: 125803
+  Item Name: ii_125803
+  Unit Price: 156
+  Type: 0
+  Quantity: 3
+
+
+Invoice ID: 331902O
+Created On: 2019-09-16
+  Item ID: 158537
+  Item Name: ii_158537
+  Unit Price: 197
+  Type: 3
+  Quantity: 6
+  Item ID: 154561
+  Item Name: ii_154561
+  Unit Price: 144
+  Type: 0
+  Quantity: 8
+  Item ID: 143905
+  Item Name: ii_143905
+  Unit Price: 179
+  Type: 2
+  Quantity: 4
+  Item ID: 198243
+  Item Name: ii_198243
+  Unit Price: 115
+  Type: 3
+  Quantity: 8
+  Item ID: 170438
+  Item Name: ii_170438
+  Unit Price: 183
+  Type: 0
+  Quantity: 3
+  Item ID: 111906
+  Item Name: ii_111906
+  Unit Price: 172
+  Type: 3
+  Quantity: 7
+  Item ID: 174442
+  Item Name: ii_174442
+  Unit Price: 131
+  Type: 1
+  Quantity: 2
+
+
+Invoice ID: 328581
+Created On: 2019-02-28
+  Item ID: 134847
+  Item Name: ii_134847
+  Unit Price: 191
+  Type: 3
+  Quantity: 2
+  Item ID: 130674
+  Item Name: ii_130674
+  Unit Price: 160
+  Type: 2
+  Quantity: 6
+  Item ID: 115532
+  Item Name: ii_115532
+  Unit Price: 194
+  Type: 3
+  Quantity: 7
+  Item ID: 176102
+  Item Name: ii_176102
+  Unit Price: 143
+  Type: 1
+  Quantity: 2
+  Item ID: 104028
+  Item Name: ii_104028
+  Unit Price: 148
+  Type: 0
+  Quantity: 7
+
+
+Invoice ID: 325063
+Created On: 2019-01-23
+  Item ID: 168501
+  Item Name: ii_168501
+  Unit Price: 130
+  Type: 3
+  Quantity: 5
+  Item ID: 129180
+  Item Name: ii_129180
+  Unit Price: 164
+  Type: 0
+  Quantity: 3
+  Item ID: 190265
+  Item Name: ii_190265
+  Unit Price: 164
+  Type: 1
+  Quantity: 4
+
+
+Invoice ID: 375121
+Created On: 2019-06-11
+  Item ID: 199708
+  Item Name: ii_199708
+  Unit Price: 116
+  Type: 2
+  Quantity: 5
+  Item ID: 147401
+  Item Name: ii_147401
+  Unit Price: 188
+  Type: 1
+  Quantity: 7
+  Item ID: 186192
+  Item Name: ii_186192
+  Unit Price: 163
+  Type: 3
+  Quantity: 8
+  Item ID: 191033
+  Item Name: ii_191033
+  Unit Price: 141
+  Type: 3
+  Quantity: 8
+  Item ID: 103236
+  Item Name: ii_103236
+  Unit Price: 148
+  Type: 2
+  Quantity: 6
+
+
+Invoice ID: 368913
+Created On: 2019-02-13
+  Item ID: 185615
+  Item Name: ii_185615
+  Unit Price: 143
+  Type: 1
+  Quantity: 5
+  Item ID: 110871
+  Item Name: ii_110871
+  Unit Price: 165
+  Type: 0
+  Quantity: 1
+  Item ID: 155308
+  Item Name: ii_155308
+  Unit Price: 185
+  Type: 0
+  Quantity: 8
+  Item ID: 194021
+  Item Name: ii_194021
+  Unit Price: 138
+  Type: 1
+  Quantity: 1
+  Item ID: 116641
+  Item Name: ii_116641
+  Unit Price: 172
+  Type: 0
+  Quantity: 6
+  Item ID: 199144
+  Item Name: ii_199144
+  Unit Price: 158
+  Type: 0
+  Quantity: 1
+  Item ID: 131362
+  Item Name: ii_131362
+  Unit Price: 131
+  Type: 0
+  Quantity: 3
+
+
+Invoice ID: 383182
+Created On: 2019-01-10
+  Item ID: 148618
+  Item Name: ii_148618
+  Unit Price: 124
+  Type: 2
+  Quantity: -1
+  Item ID: 144538
+  Item Name: ii_144538
+  Unit Price: 104
+  Type: 1
+  Quantity: 3
+  Item ID: 162678
+  Item Name: ii_162678
+  Unit Price: 120
+  Type: 2
+  Quantity: 6
+  Item ID: 102066
+  Item Name: ii_102066
+  Unit Price: 161
+  Type: 1
+  Quantity: 8
+  Item ID: 147577
+  Item Name: ii_147577
+  Unit Price: 167
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 308237O
+Created On: 2019-05-29
+  Item ID: 157553
+  Item Name: ii_157553
+  Unit Price: 179
+  Type: 3
+  Quantity: 3
+  Item ID: 186670
+  Item Name: ii_186670
+  Unit Price: 181
+  Type: 3
+  Quantity: 6
+  Item ID: 140995
+  Item Name: ii_140995
+  Unit Price: 121
+  Type: 3
+  Quantity: 6
+  Item ID: 124546
+  Item Name: ii_124546
+  Unit Price: 170
+  Type: 1
+  Quantity: 5
+  Item ID: 167536
+  Item Name: ii_167536
+  Unit Price: 198
+  Type: 1
+  Quantity: 7
+  Item ID: 148625
+  Item Name: ii_148625
+  Unit Price: 185
+  Type: 0
+  Quantity: 2
+  Item ID: 146118
+  Item Name: ii_146118
+  Unit Price: 154
+  Type: 2
+  Quantity: 3
+  Item ID: 196020
+  Item Name: ii_196020
+  Unit Price: 172
+  Type: 0
+  Quantity: 4
+
+
+Invoice ID: 376944
+Created On: 2019-05-15
+  Item ID: 171249
+  Item Name: ii_171249
+  Unit Price: 131
+  Type: 3
+  Quantity: 5
+  Item ID: 179904
+  Item Name: ii_179904
+  Unit Price: 166
+  Type: 0
+  Quantity: 8
+  Item ID: 198049
+  Item Name: ii_198049
+  Unit Price: 113
+  Type: 3
+  Quantity: 4
+  Item ID: 116146
+  Item Name: ii_116146
+  Unit Price: 182
+  Type: 2
+  Quantity: 6
+  Item ID: 159836
+  Item Name: ii_159836
+  Unit Price: 109
+  Type: 1
+  Quantity: 4
+  Item ID: 148549
+  Item Name: ii_148549
+  Unit Price: 168
+  Type: 0
+  Quantity: 2
+
+
+Invoice ID: 378408
+Created On: 2019-09-24
+  Item ID: 130442
+  Item Name: ii_130442
+  Unit Price: 121
+  Type: 1
+  Quantity: 1
+  Item ID: 161956
+  Item Name: ii_161956
+  Unit Price: 186
+  Type: 2
+  Quantity: 6
+  Item ID: 160219
+  Item Name: ii_160219
+  Unit Price: 126
+  Type: 0
+  Quantity: 5
+  Item ID: 162332
+  Item Name: ii_162332
+  Unit Price: 160
+  Type: 0
+  Quantity: 6
+
+
+Invoice ID: 315942
+Created On: 2019-08-10
+  Item ID: 188151
+  Item Name: ii_188151
+  Unit Price: 124
+  Type: 0
+  Quantity: 2
+  Item ID: 145808
+  Item Name: ii_145808
+  Unit Price: 156
+  Type: 2
+  Quantity: 5
+  Item ID: 122308
+  Item Name: ii_122308
+  Unit Price: 143
+  Type: 1
+  Quantity: 5
+  Item ID: 197156
+  Item Name: ii_197156
+  Unit Price: 175
+  Type: 1
+  Quantity: 2
+
+
+Invoice ID: 383281
+Created On: 2019-01-20
+  Item ID: 139924
+  Item Name: ii_139924
+  Unit Price: 187
+  Type: 1
+  Quantity: 5
+  Item ID: 149461
+  Item Name: ii_149461
+  Unit Price: 193
+  Type: 2
+  Quantity: 3
+  Item ID: 157303
+  Item Name: ii_157303
+  Unit Price: 139
+  Type: 2
+  Quantity: 5
+  Item ID: 142649
+  Item Name: ii_142649
+  Unit Price: 177
+  Type: 2
+  Quantity: 3
+  Item ID: 155864
+  Item Name: ii_155864
+  Unit Price: 114
+  Type: 3
+  Quantity: 7
+
+
+Invoice ID: 363263
+Created On: 2019-04-26
+  Item ID: 164876
+  Item Name: ii_164876
+  Unit Price: 125
+  Type: 2
+  Quantity: 2
+  Item ID: 126912
+  Item Name: ii_126912
+  Unit Price: 132
+  Type: 1
+  Quantity: 5
+  Item ID: 195874
+  Item Name: ii_195874
+  Unit Price: 123
+  Type: 1
+  Quantity: 2
+  Item ID: 108933
+  Item Name: ii_108933
+  Unit Price: 114
+  Type: 3
+  Quantity: 5
+  Item ID: 145057
+  Item Name: ii_145057
+  Unit Price: 135
+  Type: 0
+  Quantity: 1
+  Item ID: 121049
+  Item Name: ii_121049
+  Unit Price: 115
+  Type: 1
+  Quantity: 3
+
+
+Invoice ID: 369103
+Created On: 2019-07-16
+  Item ID: 157581
+  Item Name: ii_157581
+  Unit Price: 134
+  Type: 0
+  Quantity: 2
+  Item ID: 149586
+  Item Name: ii_149586
+  Unit Price: 110
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 383235
+Created On: 2019-01-15
+  Item ID: 149962
+  Item Name: ii_149962
+  Unit Price: 142
+  Type: 2
+  Quantity: 6
+  Item ID: 134235
+  Item Name: ii_134235
+  Unit Price: 173
+  Type: 3
+  Quantity: 2
+  Item ID: 122879
+  Item Name: ii_122879
+  Unit Price: 149
+  Type: 3
+  Quantity: 1
+  Item ID: 136748
+  Item Name: ii_136748
+  Unit Price: 186
+  Type: 0
+  Quantity: 3
+  Item ID: 177216
+  Item Name: ii_177216
+  Unit Price: 187
+  Type: 2
+  Quantity: 7
+
+
+Invoice ID: 323231
+Created On: 2019-07-19
+  Item ID: 143643
+  Item Name: ii_143643
+  Unit Price: 198
+  Type: 1
+  Quantity: 1
+  Item ID: 129005
+  Item Name: ii_129005
+  Unit Price: 132
+  Type: 0
+  Quantity: 4
+  Item ID: 198810
+  Item Name: ii_198810
+  Unit Price: 174
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 340299O
+Created On: 2019-09-22
+  Item ID: 116922
+  Item Name: ii_116922
+  Unit Price: 121
+  Type: 0
+  Quantity: 8
+  Item ID: 104400
+  Item Name: ii_104400
+  Unit Price: 188
+  Type: 0
+  Quantity: 8
+  Item ID: 106905
+  Item Name: ii_106905
+  Unit Price: 108
+  Type: 1
+  Quantity: 5
+  Item ID: 128762
+  Item Name: ii_128762
+  Unit Price: 141
+  Type: 3
+  Quantity: 8
+
+
+Invoice ID: 395841
+Created On: 2019-01-13
+  Item ID: 127224
+  Item Name: ii_127224
+  Unit Price: 167
+  Type: 3
+  Quantity: 8
+  Item ID: 113035
+  Item Name: ii_113035
+  Unit Price: 103
+  Type: 2
+  Quantity: 7
+  Item ID: 101851
+  Item Name: ii_101851
+  Unit Price: 185
+  Type: 0
+  Quantity: 1
+  Item ID: 151324
+  Item Name: ii_151324
+  Unit Price: 119
+  Type: 3
+  Quantity: 8
+  Item ID: 197505
+  Item Name: ii_197505
+  Unit Price: 195
+  Type: 3
+  Quantity: 8
+  Item ID: 107412
+  Item Name: ii_107412
+  Unit Price: 126
+  Type: 0
+  Quantity: 6
+  Item ID: 176476
+  Item Name: ii_176476
+  Unit Price: 195
+  Type: 1
+  Quantity: 2
+  Item ID: 147134
+  Item Name: ii_147134
+  Unit Price: 170
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 391273
+Created On: 2019-09-10
+  Item ID: 139726
+  Item Name: ii_139726
+  Unit Price: 161
+  Type: 3
+  Quantity: 1
+  Item ID: 169144
+  Item Name: ii_169144
+  Unit Price: 171
+  Type: 1
+  Quantity: 7
+  Item ID: 123472
+  Item Name: ii_123472
+  Unit Price: 192
+  Type: 3
+  Quantity: 1
+  Item ID: 196693
+  Item Name: ii_196693
+  Unit Price: 191
+  Type: 2
+  Quantity: 3
+  Item ID: 137187
+  Item Name: ii_137187
+  Unit Price: 151
+  Type: 3
+  Quantity: 5
+  Item ID: 188652
+  Item Name: ii_188652
+  Unit Price: 132
+  Type: 0
+  Quantity: 5
+  Item ID: 158194
+  Item Name: ii_158194
+  Unit Price: 188
+  Type: 0
+  Quantity: 4
+  Item ID: 193264
+  Item Name: ii_193264
+  Unit Price: 192
+  Type: 0
+  Quantity: 6
+
+
+Invoice ID: 366751
+Created On: 2019-02-30
+  Item ID: 175333
+  Item Name: ii_175333
+  Unit Price: 192
+  Type: 3
+  Quantity: 5
+  Item ID: 106160
+  Item Name: ii_106160
+  Unit Price: 107
+  Type: 2
+  Quantity: 1
+  Item ID: 160248
+  Item Name: ii_160248
+  Unit Price: 118
+  Type: 3
+  Quantity: 6
+  Item ID: 159445
+  Item Name: ii_159445
+  Unit Price: 144
+  Type: 1
+  Quantity: 5
+
+
+Invoice ID: 313012
+Created On: 2019-08-27
+  Item ID: 101173
+  Item Name: ii_101173
+  Unit Price: 117
+  Type: 3
+  Quantity: five
+  Item ID: 195549
+  Item Name: ii_195549
+  Unit Price: 119
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 311671
+Created On: 2019-05-30
+  Item ID: 162139
+  Item Name: ii_162139
+  Unit Price: 115
+  Type: 3
+  Quantity: ten
+  Item ID: 124880
+  Item Name: ii_124880
+  Unit Price: 115
+  Type: 0
+  Quantity: 2
+  Item ID: 167564
+  Item Name: ii_167564
+  Unit Price: 155
+  Type: 1
+  Quantity: 4
+  Item ID: 184702
+  Item Name: ii_184702
+  Unit Price: 165
+  Type: 3
+  Quantity: 4
+  Item ID: 112399
+  Item Name: ii_112399
+  Unit Price: 121
+  Type: 0
+  Quantity: 8
+  Item ID: 142190
+  Item Name: ii_142190
+  Unit Price: 188
+  Type: 0
+  Quantity: 4
+
+
+Invoice ID: 381457
+Created On: 2019-07-13
+  Item ID: 151643
+  Item Name: ii_151643
+  Unit Price: 140
+  Type: 1
+  Quantity: 4
+  Item ID: 117135
+  Item Name: ii_117135
+  Unit Price: 150
+  Type: 1
+  Quantity: 4
+  Item ID: 191631
+  Item Name: ii_191631
+  Unit Price: 154
+  Type: 2
+  Quantity: 7
+  Item ID: 132707
+  Item Name: ii_132707
+  Unit Price: 132
+  Type: 2
+  Quantity: 1
+  Item ID: 166795
+  Item Name: ii_166795
+  Unit Price: 165
+  Type: 3
+  Quantity: 6
+  Item ID: 140959
+  Item Name: ii_140959
+  Unit Price: 177
+  Type: 1
+  Quantity: 6
+  Item ID: 186097
+  Item Name: ii_186097
+  Unit Price: 112
+  Type: 0
+  Quantity: 5
+
+
+Invoice ID: 343254
+Created On: 2019-07-12
+  Item ID: 104571
+  Item Name: ii_104571
+  Unit Price: 172
+  Type: 3
+  Quantity: 3
+  Item ID: 128915
+  Item Name: ii_128915
+  Unit Price: 109
+  Type: 2
+  Quantity: 5
+  Item ID: 177697
+  Item Name: ii_177697
+  Unit Price: 123
+  Type: 1
+  Quantity: 2
+  Item ID: 198244
+  Item Name: ii_198244
+  Unit Price: 119
+  Type: 1
+  Quantity: 1
+  Item ID: 134480
+  Item Name: ii_134480
+  Unit Price: 127
+  Type: 0
+  Quantity: 4
+  Item ID: 187069
+  Item Name: ii_187069
+  Unit Price: 111
+  Type: 1
+  Quantity: 3
+  Item ID: 163211
+  Item Name: ii_163211
+  Unit Price: 142
+  Type: 3
+  Quantity: 3
+  Item ID: 138776
+  Item Name: ii_138776
+  Unit Price: 189
+  Type: 0
+  Quantity: 6
+
+
+Invoice ID: 330931
+Created On: 2019-03-20
+  Item ID: 163035
+  Item Name: ii_163035
+  Unit Price: 123
+  Type: 2
+  Quantity: 8
+  Item ID: 182320
+  Item Name: ii_182320
+  Unit Price: 106
+  Type: 2
+  Quantity: 3
+  Item ID: 103864
+  Item Name: ii_103864
+  Unit Price: 148
+  Type: 2
+  Quantity: 6
+  Item ID: 185413
+  Item Name: ii_185413
+  Unit Price: 161
+  Type: 1
+  Quantity: 8
+  Item ID: 108965
+  Item Name: ii_108965
+  Unit Price: 138
+  Type: 3
+  Quantity: 3
+  Item ID: 175469
+  Item Name: ii_175469
+  Unit Price: 157
+  Type: 3
+  Quantity: 4
+
+
+Invoice ID: 375592
+Created On: 2019-02-30
+  Item ID: 157027
+  Item Name: ii_157027
+  Unit Price: 187
+  Type: 1
+  Quantity: -1
+  Item ID: 185821
+  Item Name: ii_185821
+  Unit Price: 157
+  Type: 2
+  Quantity: 3
+
+
+Invoice ID: 386678
+Created On: 2019-09-18
+  Item ID: 133300
+  Item Name: ii_133300
+  Unit Price: 130
+  Type: 1
+  Quantity: 7
+  Item ID: 124026
+  Item Name: ii_124026
+  Unit Price: 141
+  Type: 0
+  Quantity: 3
+  Item ID: 128660
+  Item Name: ii_128660
+  Unit Price: 196
+  Type: 3
+  Quantity: 2
+  Item ID: 143179
+  Item Name: ii_143179
+  Unit Price: 126
+  Type: 1
+  Quantity: 3
+
+
+Invoice ID: 360664
+Created On: 2019-06-26
+  Item ID: 180674
+  Item Name: ii_180674
+  Unit Price: 114
+  Type: 3
+  Quantity: 1
+  Item ID: 149216
+  Item Name: ii_149216
+  Unit Price: 192
+  Type: 3
+  Quantity: 2
+  Item ID: 156311
+  Item Name: ii_156311
+  Unit Price: 140
+  Type: 1
+  Quantity: 4
+  Item ID: 147252
+  Item Name: ii_147252
+  Unit Price: 166
+  Type: 2
+  Quantity: 6
+  Item ID: 112615
+  Item Name: ii_112615
+  Unit Price: 175
+  Type: 1
+  Quantity: 4
+  Item ID: 172997
+  Item Name: ii_172997
+  Unit Price: 171
+  Type: 0
+  Quantity: 1
+  Item ID: 133577
+  Item Name: ii_133577
+  Unit Price: 172
+  Type: 2
+  Quantity: 3
+
+
+Invoice ID: 387341
+Created On: 2019-01-27
+  Item ID: 104043
+  Item Name: ii_104043
+  Unit Price: 155
+  Type: 0
+  Quantity: 1
+  Item ID: 147191
+  Item Name: ii_147191
+  Unit Price: 109
+  Type: 2
+  Quantity: 2
+  Item ID: 178083
+  Item Name: ii_178083
+  Unit Price: 148
+  Type: 0
+  Quantity: 4
+  Item ID: 195056
+  Item Name: ii_195056
+  Unit Price: 177
+  Type: 0
+  Quantity: 8
+
+
+Invoice ID: 305869
+Created On: 2019-09-11
+  Item ID: 132142
+  Item Name: ii_132142
+  Unit Price: 101
+  Type: 3
+  Quantity: ten
+  Item ID: 122089
+  Item Name: ii_122089
+  Unit Price: 126
+  Type: 0
+  Quantity: 2
+  Item ID: 167832
+  Item Name: ii_167832
+  Unit Price: 179
+  Type: 0
+  Quantity: 4
+  Item ID: 192367
+  Item Name: ii_192367
+  Unit Price: 156
+  Type: 0
+  Quantity: 3
+  Item ID: 121559
+  Item Name: ii_121559
+  Unit Price: 175
+  Type: 2
+  Quantity: 1
+  Item ID: 166763
+  Item Name: ii_166763
+  Unit Price: 155
+  Type: 1
+  Quantity: 8
+
+
+Invoice ID: 356552
+Created On: 2019-03-21
+  Item ID: 112495
+  Item Name: ii_112495
+  Unit Price: 104
+  Type: 1
+  Quantity: 4
+  Item ID: 196977
+  Item Name: ii_196977
+  Unit Price: 160
+  Type: 1
+  Quantity: 3
+  Item ID: 103631
+  Item Name: ii_103631
+  Unit Price: 133
+  Type: 0
+  Quantity: 6
+  Item ID: 185127
+  Item Name: ii_185127
+  Unit Price: 125
+  Type: 0
+  Quantity: 1
+
+
+Invoice ID: 306163
+Created On: 2019-09-18
+  Item ID: 136017
+  Item Name: ii_136017
+  Unit Price: 191
+  Type: 1
+  Quantity: 2
+  Item ID: 145491
+  Item Name: ii_145491
+  Unit Price: 114
+  Type: 0
+  Quantity: 2
+  Item ID: 167964
+  Item Name: ii_167964
+  Unit Price: 127
+  Type: 2
+  Quantity: 3
+  Item ID: 117418
+  Item Name: ii_117418
+  Unit Price: 122
+  Type: 2
+  Quantity: 1
+  Item ID: 137129
+  Item Name: ii_137129
+  Unit Price: 131
+  Type: 2
+  Quantity: 7
+  Item ID: 130442
+  Item Name: ii_130442
+  Unit Price: 160
+  Type: 0
+  Quantity: 2
+  Item ID: 108876
+  Item Name: ii_108876
+  Unit Price: 181
+  Type: 0
+  Quantity: 6
+
+
+Invoice ID: 373375O
+Created On: 2019-08-24
+  Item ID: 180383
+  Item Name: ii_180383
+  Unit Price: 179
+  Type: 3
+  Quantity: 8
+  Item ID: 129478
+  Item Name: ii_129478
+  Unit Price: 146
+  Type: 3
+  Quantity: 6
+  Item ID: 105522
+  Item Name: ii_105522
+  Unit Price: 154
+  Type: 1
+  Quantity: 8
+  Item ID: 141924
+  Item Name: ii_141924
+  Unit Price: 193
+  Type: 3
+  Quantity: 6
+  Item ID: 182015
+  Item Name: ii_182015
+  Unit Price: 149
+  Type: 2
+  Quantity: 3
+  Item ID: 159579
+  Item Name: ii_159579
+  Unit Price: 178
+  Type: 2
+  Quantity: 5
+  Item ID: 157738
+  Item Name: ii_157738
+  Unit Price: 130
+  Type: 3
+  Quantity: 5
+  Item ID: 139544
+  Item Name: ii_139544
+  Unit Price: 131
+  Type: 3
+  Quantity: 3
+
+
+Invoice ID: 321243
+Created On: 2019-05-26
+  Item ID: 124775
+  Item Name: ii_124775
+  Unit Price: 134
+  Type: 3
+  Quantity: 1
+  Item ID: 184165
+  Item Name: ii_184165
+  Unit Price: 175
+  Type: 2
+  Quantity: 5
+  Item ID: 155124
+  Item Name: ii_155124
+  Unit Price: 127
+  Type: 2
+  Quantity: 3
+  Item ID: 141626
+  Item Name: ii_141626
+  Unit Price: 144
+  Type: 2
+  Quantity: 2
+  Item ID: 175528
+  Item Name: ii_175528
+  Unit Price: 169
+  Type: 1
+  Quantity: 3
+
+
+Invoice ID: 377960
+Created On: 2019-02-22
+  Item ID: 123242
+  Item Name: ii_123242
+  Unit Price: 110
+  Type: 1
+  Quantity: 5
+  Item ID: 196386
+  Item Name: ii_196386
+  Unit Price: 150
+  Type: 3
+  Quantity: 6
+  Item ID: 196707
+  Item Name: ii_196707
+  Unit Price: 191
+  Type: 2
+  Quantity: 3
+  Item ID: 144902
+  Item Name: ii_144902
+  Unit Price: 188
+  Type: 2
+  Quantity: 7
+
